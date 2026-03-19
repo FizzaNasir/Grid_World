@@ -108,6 +108,15 @@ Q(s, a) ← Q(s, a) + α [r + γ Q(s', a') − Q(s, a)]
 * Monte Carlo performs well in episodic tasks.
 
 ---
+### Agent trained using Off policy and on-policy algorithms
+<p align="center">
+  <img src="./q_learning.gif" width="600"/>
+</p>
+
+### Agent trained using Random policy
+<p align="center">
+  <img src="./random_learning.gif" width="600"/>
+</p>
 
 ## ▶️ How to Run
 
