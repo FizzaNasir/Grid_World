@@ -118,20 +118,6 @@ Q(s, a) ← Q(s, a) + α [r + γ Q(s', a') − Q(s, a)]
   <img src="./random_learning.gif" width="600"/>
 </p>
 
-## ▶️ How to Run
-
-```bash
-# Clone repository
-git clone <your-repo-url>
-
-# Install dependencies
-npm install   # or pip install -r requirements.txt
-
-# Run the project
-node index.js   # or python main.py
-```
-
-
 ## 🙌 Conclusion
 
 This project provides a hands-on understanding of core reinforcement learning algorithms and highlights the differences between on-policy and off-policy learning approaches.
